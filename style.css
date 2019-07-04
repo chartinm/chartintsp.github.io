@@ -1,0 +1,24 @@
+.jumbotron {
+  height: 500px;
+  background-image: url("img/surf2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.steps p {
+  text-align: start;
+}
+
+.space {
+  height: 40px;
+  margin-top: 10px;
+}
+
+.jumbotron .btn {
+  font-size: 14px;
+}
+
+.display-3 {
+  font-size: 59px;
+}
